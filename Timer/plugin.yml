@@ -1,0 +1,6 @@
+version: 1.0
+name: Timer
+main: net.simpvp.Timer.Timer
+commands:
+  timer:
+    description: Start timer
